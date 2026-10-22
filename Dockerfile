@@ -26,3 +26,4 @@ VOLUME ["/data"]
 EXPOSE 3000
 
 CMD ["npm", "start"]
+COPY public /app/public
