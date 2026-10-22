@@ -18,6 +18,4 @@
     "jsonwebtoken": "^9.0.2",
     "openai": "^5.20.0"
   }
-}"scripts": {
-  "start": "node server.js"
 }
